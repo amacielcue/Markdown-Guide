@@ -1,5 +1,4 @@
-# TITLE
-## SUBTITLE
+v## SUBTITLE
 ### HEADING
 Normal text | __bold text__ | *italic text* | ***special text*** | ~~crossed text~~ | **combined _text_** | Highlighted `text` | 
 >"Quoted" text
@@ -32,6 +31,16 @@ R1 C0 | R1 C1 | R1 C2
 R2 C0 | R2 C1 | R2 C2
 ***
 
+
+## **Math Special Characters**
+
+__Character__ | __Syntax__
+------------- | ------------
+Exponents | x<sup>n</sup> 
+Subscripts | x<sub>n</sub>
+Greek Alphabet | &alpha;, &Alpha; / &beta;, &Beta; / &gamma;, &Gamma;/ &delta;, &Delta; / &epsilon;, &Epsilon; / &zeta;, &Zeta; / &eta;, &Eta; / &theta;, &Theta; / &iota;, &Iota; / &kappa;, &Kappa; / &lambda;, &Lambda; / &mu;, &Mu; / &nu;, &Nu; / &xi;, &Xi; / &omicron;, &Omicron; / &pi;, &Pi; / &rho;, &Rho; / &sigma;, &Sigma; / &tau;, &Tau; / &upsilon;, &Upsilon; / &phi;, &Phi;/ &chi;, &Chi; / &psi;, &Psi; / &omega;, &Omega; 
+---
+
 > ## **Image** ![Lemon Image](https://previews.123rf.com/images/el4anes/el4anes1807/el4anes180700031/105347702-lemon-with-sunglasses-cartoon-vector-illustration.jpg)
 
 > ## **GIF**:![Lemon GIF](https://www.google.com/logos/doodles/2016/2016-doodle-fruit-games-day-4-5657433650233344-hp2x.gif)
@@ -52,4 +61,3 @@ R2 C0 | R2 C1 | R2 C2
 
 
 > Emojis can be added by using :[Emoji Code](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):  (Ex. :+1: -> Thumbs up)
-*/
